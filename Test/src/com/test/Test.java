@@ -7,6 +7,6 @@ public class Test {
 		//third commit
 		System.out.println("hello world");
 		//added line for second branch
-		System.out.println("not again");
+		System.out.println("chnaged same line");
 	}
 }
