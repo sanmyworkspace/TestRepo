@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("hello world");
 		//added line for second branch
 		System.out.print("chnaged same line");
+		//added line
 	}
 }
